@@ -1,9 +1,9 @@
 package Task_2;
 
-public class employee extends citizen {
+public class Employee extends Citizen {
     public String name_profession;
 
-    employee(String name, int passport_code, String name_profession) {
+    Employee(String name, int passport_code, String name_profession) {
         super(name, passport_code);
         this.name_profession = name_profession;
     }

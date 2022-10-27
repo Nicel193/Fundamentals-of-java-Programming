@@ -2,10 +2,10 @@ package Task_2;
 
 import java.lang.String;
 
-public class human {
+public class Human {
     private String name = "Test";
 
-    human(String name)
+    Human(String name)
     {
         this.name = name;
     }

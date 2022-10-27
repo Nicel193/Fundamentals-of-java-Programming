@@ -1,9 +1,9 @@
 package Task_2;
 
-public class citizen extends human {
+public class Citizen extends Human {
     private int passport_code = 1234;
 
-    citizen(String name, int passport_code)
+    Citizen(String name, int passport_code)
     {
         super(name);
         this.passport_code = passport_code;

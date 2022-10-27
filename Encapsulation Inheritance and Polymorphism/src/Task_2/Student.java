@@ -1,9 +1,9 @@
 package Task_2;
 
-public class student extends citizen {
+public class Student extends Citizen {
     private String group_number;
 
-    student(String name, int passport_code, String group_number)
+    Student(String name, int passport_code, String group_number)
     {
         super(name, passport_code);
         this.group_number = group_number;
