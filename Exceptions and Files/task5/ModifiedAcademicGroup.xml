@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><AcademicGroup>
+    <Student>
+        <Name>Oleg</Name>
+        <Age>18</Age>
+    </Student>
+    <Student>
+        <Name>Ruslan</Name>
+        <Age>18</Age>
+    </Student>
+    <Student>
+        <Name>Artem</Name>
+        <Age>19</Age>
+    </Student>
+</AcademicGroup>
